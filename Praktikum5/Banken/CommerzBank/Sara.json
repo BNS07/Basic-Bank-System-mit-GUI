@@ -1,0 +1,32 @@
+[
+  {
+    "CLASSNAME": "Payment",
+    "INSTANCE": {
+      "incomingInterest": 0.4,
+      "outgoingInterest": 0.6,
+      "date": "02.01.2025",
+      "amount": 20154.0,
+      "description": "Miete"
+    }
+  },
+  {
+    "CLASSNAME": "OutgoingTransfer",
+    "INSTANCE": {
+      "sender": "Sara",
+      "recipient": "Othmane",
+      "date": "12.01.2015",
+      "amount": 2415325.0,
+      "description": "Miete"
+    }
+  },
+  {
+    "CLASSNAME": "OutgoingTransfer",
+    "INSTANCE": {
+      "sender": "Sara",
+      "recipient": "Ana",
+      "date": "12.15.8754",
+      "amount": 12872.0,
+      "description": "Miete"
+    }
+  }
+]

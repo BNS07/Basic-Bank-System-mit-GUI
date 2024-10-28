@@ -1,0 +1,42 @@
+[
+  {
+    "CLASSNAME": "IncomingTransfer",
+    "INSTANCE": {
+      "sender": "maw",
+      "recipient": "salsa",
+      "date": "14.12.2022",
+      "amount": 3000.0,
+      "description": "birthdaygift"
+    }
+  },
+  {
+    "CLASSNAME": "Payment",
+    "INSTANCE": {
+      "incomingInterest": 0.4,
+      "outgoingInterest": 0.6,
+      "date": "01.01.2023",
+      "amount": 249.0,
+      "description": "rent"
+    }
+  },
+  {
+    "CLASSNAME": "Payment",
+    "INSTANCE": {
+      "incomingInterest": 0.4,
+      "outgoingInterest": 0.6,
+      "date": "15.01.2023",
+      "amount": 120.0,
+      "description": "versicherung"
+    }
+  },
+  {
+    "CLASSNAME": "Payment",
+    "INSTANCE": {
+      "incomingInterest": 0.4,
+      "outgoingInterest": 0.6,
+      "date": "24.12.2022",
+      "amount": -200.0,
+      "description": "kaution"
+    }
+  }
+]

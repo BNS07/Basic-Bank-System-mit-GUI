@@ -1,0 +1,32 @@
+[
+  {
+    "CLASSNAME": "Payment",
+    "INSTANCE": {
+      "incomingInterest": 0.4,
+      "outgoingInterest": 0.6,
+      "date": "12.12.2022",
+      "amount": 20.0,
+      "description": "pay amine"
+    }
+  },
+  {
+    "CLASSNAME": "IncomingTransfer",
+    "INSTANCE": {
+      "sender": "anas",
+      "recipient": "maw",
+      "date": "14.12.2022",
+      "amount": 2500.0,
+      "description": "Birthday gift"
+    }
+  },
+  {
+    "CLASSNAME": "OutgoingTransfer",
+    "INSTANCE": {
+      "sender": "maw",
+      "recipient": "salsa",
+      "date": "14.12.2022",
+      "amount": 3000.0,
+      "description": "Birthday gift"
+    }
+  }
+]
